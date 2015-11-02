@@ -1,0 +1,6 @@
+Argparse
+Requests
+Boto
+Pyshp
+Cython
+Pypng
